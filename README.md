@@ -1,2 +1,2 @@
 # Capstone-Project
-Capstone project in AI and ML Imperial Collage professional training
+Capstone project in AI and ML, Imperial College professional training
